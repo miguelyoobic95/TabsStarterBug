@@ -1,0 +1,7 @@
+{
+  "name": "TabsStarterBug",
+  "type": "angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
